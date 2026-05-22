@@ -1,0 +1,1 @@
+Tablas de decisión para prioridad_ticket y estado_equipo

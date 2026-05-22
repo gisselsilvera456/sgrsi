@@ -1,0 +1,1 @@
+Fundamentación del modelo tradicional (cascada con validación por fases)

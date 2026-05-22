@@ -1,0 +1,1 @@
+Fortalezas, Oportunidades, Debilidades, Amenazas (ponderadas 1-5 con justificación)
