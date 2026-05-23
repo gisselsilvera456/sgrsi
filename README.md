@@ -24,4 +24,4 @@ PHP 8+, MySQL 8+, Bootstrap 5, jQuery 3.7, AES-256-GCM
 
 
 Diego 
-Gissel probando que funcione ;)
+Gissel probando que funcione ;)2
