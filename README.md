@@ -23,4 +23,5 @@ Proyecto de fin de año | Equipo Cronos | ITI 2026
 PHP 8+, MySQL 8+, Bootstrap 5, jQuery 3.7, AES-256-GCM
 
 
-Diego
+Diego 
+Gissel probando que funcione ;)
