@@ -4,9 +4,7 @@ Alumnos de 3MF del turno NOCTURNO del Instituto Tecnológico de Informática- No
 dev
 
 Diego
-=======
-dev
-Gissel Tiene 3 hijos y a nadie le importa ahre son muy lindos;)
+======
 
 =======
 
